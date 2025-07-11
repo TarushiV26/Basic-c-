@@ -1,4 +1,4 @@
-##PROGRAM-1:INTRODUCTION PROGRAM:
+//program1: introduction program:
 #include<iostream>
 int main()
 {
