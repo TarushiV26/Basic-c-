@@ -1,4 +1,4 @@
-//program2:inputting to numbers
+//program2:inputting two numbers
 #include<iostream>
 using namespace std;
 int main()
