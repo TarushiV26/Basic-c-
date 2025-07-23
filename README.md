@@ -41,7 +41,6 @@ To understand the basic structure of a C++ program and how to display output usi
 ## C++ Identifiers
 
 | asm         | else        | new            | this        |
-|-------------|-------------|----------------|-------------|
 | auto        | enum        | operator       | throw       |
 | bool        | explicit    | private        | true        |
 | break       | export      | protected      | try         |
