@@ -32,3 +32,28 @@ Key Concepts:
 2) Reading input from the user
 3) Performing basic arithmetic operations
 4) Displaying results clearly using cout
+
+## Objective
+
+To understand the basic structure of a C++ program and how to display output using the `cout` statement.
+
+---
+## C++ Identifiers
+
+| asm         | else        | new            | this        |
+|-------------|-------------|----------------|-------------|
+| auto        | enum        | operator       | throw       |
+| bool        | explicit    | private        | true        |
+| break       | export      | protected      | try         |
+| case        | extern      | public         | typedef     |
+| catch       | false       | register       | typeid      |
+| char        | float       | reinterpret_cast | typename  |
+| class       | for         | return         | union       |
+| const       | friend      | short          | unsigned    |
+| const_cast  | goto        | signed         | using       |
+| continue    | if          | sizeof         | virtual     |
+| default     | inline      | static         | void        |
+| delete      | int         | static_cast    | volatile    |
+| do          | long        | struct         | wchar_t     |
+| double      | mutable     | switch         | while       |
+| dynamic_cast| namespace   | template       |             |
